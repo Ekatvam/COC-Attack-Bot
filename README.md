@@ -30,7 +30,7 @@ This bot is for educational purposes only. Use at your own risk. The author is n
 
 1. **Clone the repository:**
    ```bash
-   git clone <https://github.com/Ekatvam/COC-Attack-Bot>
+   git clone https://github.com/Ekatvam/COC-Attack-Bot
    cd COC-Attack-Bot
    ```
 
