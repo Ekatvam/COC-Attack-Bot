@@ -30,8 +30,8 @@ This bot is for educational purposes only. Use at your own risk. The author is n
 
 1. **Clone the repository:**
    ```bash
-   git clone <https://github.com/DFanso/coc-attack-bot>
-   cd coc-attack-bot
+   git clone <https://github.com/Ekatvam/COC-Attack-Bot>
+   cd COC-Attack-Bot
    ```
 
 2. **Install Python dependencies:**
